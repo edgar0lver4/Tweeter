@@ -1,0 +1,19 @@
+.menu{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.delete-menu{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #AFAFAF;
+    padding: 5px;
+    border-radius: 5px;
+    background: transparent;
+}
+.delete-menu:hover{
+    cursor: pointer;
+}

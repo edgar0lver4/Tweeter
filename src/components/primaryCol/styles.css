@@ -1,0 +1,9 @@
+.t-col-container {
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    
+}
+ ::-webkit-scrollbar{
+     display: none;
+ }
